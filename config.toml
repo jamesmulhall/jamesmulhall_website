@@ -1,0 +1,92 @@
+baseurl = "http://www.example.com"
+title = "Home"
+# theme = "hugo-coder"
+theme = ["hugo-embed-pdf-shortcode", "hugo-coder"]
+# theme = ["hugo-embed-pdf-shortcode", "hugo-profile"]
+enableInlineShortcodes = true
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+disqusShortname = "yourdiscussshortname"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "James Mulhall"
+  info = "Effective Altruism & Disease Modelling"
+  description = "James Mulhall's personal website"
+  keywords = "blog,developer,personal"
+  avatarurl = "images/headshot_cropped.jpg"
+  # gravatar = "john.doe@example.com"
+
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  # since = 2019
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 1
+  url = "https://www.linkedin.com/in/james-mulhall/"
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 2
+  url = "https://github.com/mullach"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/JamesMulhall18"
+[[params.social]]
+  name = "CV"
+  icon = "fa fa-file-o fa-2x"
+  weight = 4
+  url = "/documents/jamesmulhallCV20230320.pdf"
+[[params.social]]
+  name = "Email"
+  icon = "fa fa-envelope fa-2x"
+  weight = 5
+  url = "mailto:jamesseanmulhall@gmail.com"
+
+# Menu links
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url = "about/"
+[[menu.main]]
+  name = "Projects"
+  weight = 2
+  url = "projects/"
+[[menu.main]]
+  name = "Blog"
+  weight = 3
+  url  = "blog/"
+[[menu.main]]
+  name = "Adventures"
+  weight = 4
+  url = "adventures/"
+[[menu.main]]
+  name = "Contact"
+  weight = 5
+  url = "contact/"
