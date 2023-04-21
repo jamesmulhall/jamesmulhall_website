@@ -12,9 +12,9 @@ draft: false
 {{< /rawhtml >}}
 
 ![Supercrack](/images/supercrack2.jpeg)
-![Yosemite](/images/yosemite.jpg) 
-![Ice Climbing 1](/images/ice_landscape.jpg)
-![Ice Climbing 2](/images/professors.jpg)
+![Yosemite](/images/yosemite_compressed.jpg) 
+![Ice Climbing 1](/images/ice_landscape_compressed.jpg)
+![Ice Climbing 2](/images/professors_compressed.jpg)
 
 {{< rawhtml >}}
     <p style="color: #808B96; text-align: right; font-size:90%">
@@ -22,10 +22,10 @@ draft: false
     </p>
 {{< /rawhtml >}}
 
-![The Burren](/images/burren.jpg)
+![The Burren](/images/burren_compressed.jpg)
 ![San Jose Sunset](/images/san_jose.jpg)
 ![Chamonix 2](/images/chamonix_2.jpg)
-![Ice Skating](/images/ice_skating.jpg)
+![Ice Skating](/images/ice_skating_compressed.jpg)
 {{< rawhtml >}}
     <p style="color: #808B96; text-align: right; font-size:90%">
         <i> <a href="https://www.instagram.com/jordannlawrencee/">© Jordan Lawrence</a> </i>
