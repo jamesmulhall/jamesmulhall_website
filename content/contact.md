@@ -4,7 +4,7 @@ date: 2023-04-17T23:40:35-06:00
 draft: false
 ---
 
-![covid_phylogeny](/images/covid_phylogeny.png)
+![covid_phylogeny](/images/contact/generic_epidemic_map_4x1.jpg)
 
 Fill out the contact form below to get in touch. Alternatively, feel free to reach out for a chat by messaging me on [LinkedIn](https://www.linkedin.com/in/james-mulhall/)
 

@@ -11,7 +11,7 @@ draft: false
     </style>
 {{< /rawhtml >}}
 
-![diarrhoea_cropped](/images/diarrhoea_rates_by_province_cropped.png)
+![matplotlib_chart](/images/about/diarrhoea_rates_by_province_cropped.png)
 
 Hi, I'm James. I'm passionate about effective altruism, pandemic preparedness, biosecurity, and general priorities research. I have academic and professional experience in infectious disease modelling — you can check out some of my projects [here](/projects) and the blog posts explaining them [here](/blog).  
 
