@@ -1,7 +1,7 @@
 ---
 title: "Forecasting Infectious Disease Incidence using Weather Data [Complete]"
 date: 2023-04-17T23:50:38-06:00
-draft: true
+draft: false
 post-order: 2
 images: 
     - /images/projects/diarrhoea_predictions_cropped.png

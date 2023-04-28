@@ -1,7 +1,7 @@
 ---
 title: "From Pandemics to Bioweapons: Ranking Global Catastrophic Biological Risks [In Progress]"
 date: 2023-04-17T23:50:48-06:00
-draft: true
+draft: false
 post-order: 1
 images: 
     - /images/projects/virus_4x1.jpg

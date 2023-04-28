@@ -1,7 +1,7 @@
 ---
 title: "Forecasting Covid Test Demand for the UK [Complete]"
 date: 2023-04-19T00:54:41-06:00
-draft: true
+draft: false
 post-order: 3
 images: 
     - /images/projects/covid_test_banner.png

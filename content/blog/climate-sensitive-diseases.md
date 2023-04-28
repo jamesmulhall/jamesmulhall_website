@@ -1,7 +1,7 @@
 ---
 title: "Forecasting diarrhoea incidence using weather data"
 date: 2023-04-17T23:41:54-06:00
-draft: true
+draft: false
 featured_image: ![forecasting results](https://github.com/mullach/climate-sensitive-diseases/blob/main/Figures/pytorch_diarrhoea_pred.png?raw=true)
 images: 
     - /images/deep_diarrhoea_predictions.png

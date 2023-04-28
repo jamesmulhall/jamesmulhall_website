@@ -1,7 +1,7 @@
 ---
 title: "Blog"
 date: 2023-04-17T23:41:34-06:00
-draft: true
+draft: false
 type: blog
 ---
 
