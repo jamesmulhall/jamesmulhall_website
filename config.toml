@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "http://www.jamesmulhall.com"
 title = "Home"
 # theme = "hugo-coder"
 theme = ["hugo-embed-pdf-shortcode", "hugo-coder"]
