@@ -142,7 +142,7 @@ While forecasting errors worsened when forecasting further in advance, performan
 {{< /rawhtml >}}
 
 
-# What's the Bottom Line?
+# What's the bottom line?
 
 
 The models presented here have the potential to form early-warning systems for diarrhoea and other climate-sensitive infectious diseases, but require improvement. They would, of course, need to fit in as part of a holistic healthcare response; reducing the impact of diarrhoea will be impossible without crucial prevention and treatment measures such as oral rehydration solution, WASH programmes, clean water access, and rotavirus vaccination. Additional work to increase model accuracy across provinces would be essential for implementation throughout Vietnam. The next major step would be to test the ability of these early-warning models in real-time — are they able to prospectively forecast diarrhoea outbreaks three months from now? If so, they may form one puzzle piece in eliminating preventable deaths from diarrhoea.
